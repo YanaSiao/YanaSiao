@@ -78,28 +78,28 @@ Exploration of recommendation algorithms and personalization techniques.
 ## Skills
 
 **Languages**
-
 Python · Java · C/C++
 
 **ML / Data**
-
 PyTorch · NumPy · Pandas · Scikit-learn
 
 **Concepts**
-
 OOP · Algorithms · Data Structures · Model Evaluation
 
 
 ## Contact
 
 LinkedIn: https://linkedin.com/in/your-profile
+
 Email: [yana.siao@mail.polimi.it](mailto:yana.siao@mail.polimi.it)
 
-Open to internships, part-time roles, and collaboration opportunities (commercial & non-commercial).
+Open to internships, part-time roles, and collaboration opportunities (commercial & non-commercial) from **September 2026**.
 
 
-## Additional
+## Personal
 
-* Daily use of 5 languages
-* Adore LEGO and videogaming (roguelike, metroidvania)
+* Daily use of 5 languages: English, Italian, Chinese, Russian, Ukrainian
+* Interests: birds, LEGO, and visual arts
+* Enjoy drawing, reading science fiction, and videogames (roguelike, metroidvania)
+
 
