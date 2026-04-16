@@ -78,12 +78,15 @@ Exploration of recommendation algorithms and personalization techniques.
 ## Skills
 
 **Languages**
+
 Python · Java · C/C++
 
 **ML / Data**
+
 PyTorch · NumPy · Pandas · Scikit-learn
 
 **Concepts**
+
 OOP · Algorithms · Data Structures · Model Evaluation
 
 
@@ -98,5 +101,5 @@ Open to internships, part-time roles, and collaboration opportunities (commercia
 ## Additional
 
 * Daily use of 5 languages
-* Interest in LEGO and videogaming (roguelike, metroidvania)
+* Adore LEGO and videogaming (roguelike, metroidvania)
 
