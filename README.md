@@ -6,7 +6,7 @@ Politecnico di Milano
 ## Profile
 
 MSc student in Computer Science Engineering specializing in Artificial Intelligence and Machine Learning.
-Focused on building and understanding machine learning systems, with particular interest in computer vision, large language models, bioinformatics, he intersection of IT and biology.
+Focused on building and understanding machine learning systems, with particular interest in computer vision, large language models, bioinformatics, the intersection of IT and biology.
 
 ## Technical Focus
 
@@ -34,15 +34,11 @@ Focused on building and understanding machine learning systems, with particular 
 
 ### Computer Vision
 
-Projects focused on image processing, model training, and evaluation pipelines.
-
 * **Deep Learning Vision Pipeline**
   *(Coming soon)* End-to-end computer vision system covering data preprocessing, model training, and evaluation.
 
 
 ### Recommender Systems
-
-Exploration of recommendation algorithms and personalization techniques.
 
 * **Hybrid Recommender System**
   *(Coming soon)* Collaborative + content-based recommendation system for personalized suggestions.
@@ -72,8 +68,7 @@ Exploration of recommendation algorithms and personalization techniques.
 ### Other Work
 
 * **[Best Bike Paths – Software Engineering Project](https://github.com/YanaSiao/The-Best-Bike-Paths_Software-Engineering-2_Polimi)**
-  Application for analyzing and recommending optimal bike routes.
-
+ Requirements analysis and system design (RASD & DD) for a bike route recommendation platform.
 
 ## Skills
 
@@ -89,8 +84,7 @@ OOP · Algorithms · Data Structures · Model Evaluation
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/your-profile
-
+LinkedIn: [View Profile](https://www.linkedin.com/in/yana-siao-732275154/)
 Email: [yana.siao@mail.polimi.it](mailto:yana.siao@mail.polimi.it)
 
 Open to internships, part-time roles, and collaboration opportunities (commercial & non-commercial) from **September 2026**.
