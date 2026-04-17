@@ -34,24 +34,19 @@ Focused on building and understanding machine learning systems, with particular 
 
 ### Computer Vision
 
-* **Deep Learning Vision Pipeline**
-  *(Coming soon)* End-to-end computer vision system covering data preprocessing, model training, and evaluation.
+- **Deep Learning Vision Pipeline**  
+  *(Coming soon)*  End-to-end pipeline for breast cancer detection and classification using deep learning, covering data preprocessing, model training, and evaluation.
+
+### Sequence Modeling / Bioinformatics
+
+- **Pain Level Prediction with Deep Learning**  
+  *(Coming soon)* Sequence modeling approach for pain level classification and prediction using deep neural networks on temporal data.
 
 
 ### Recommender Systems
 
 * **Hybrid Recommender System**
   *(Coming soon)* Collaborative + content-based recommendation system for personalized suggestions.
-
-
-### Study Materials
-
-* **[Polimi CSE Study Materials](https://github.com/YanaSiao/polimi-cse-study-materials)**
-  Structured notes and resources for Computer Science Engineering courses.
-
-* **[AI Encyclopedia](https://github.com/YanaSiao/Artificial-Intelligence-Encyclopedia-)**
-  Ongoing collection of theoretical concepts, explanations, and references in AI.
-
 
 ### Bachelor Projects
 
@@ -64,6 +59,17 @@ Focused on building and understanding machine learning systems, with particular 
 * **[Robotics Project](https://github.com/YanaSiao/Robotics-project-2024-Politecnico-di-Milano)**
   Robotics system development with focus on control and interaction.
 
+### Study Materials
+
+* **[Polimi CSE Study Materials](https://github.com/YanaSiao/polimi-cse-study-materials)**
+  Structured notes and resources for Computer Science Engineering courses.
+
+* **[AI Encyclopedia](https://github.com/YanaSiao/Artificial-Intelligence-Encyclopedia-)**
+  Ongoing collection of theoretical concepts, explanations, and references in AI.
+
+### Distributed Systems
+* **Distributed Job Scheduler** (in progress)
+ * Simulation of a fault-tolerant distributed job scheduling system with load balancing across executors (OmNet++).
 
 ### Other Work
 
