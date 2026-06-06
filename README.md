@@ -28,8 +28,12 @@ Focused on building and understanding machine learning systems, with particular 
 
 ### NLP
 
-* **Trivia Chatbot (in progress)**
-  *(Coming soon)* End-to-end interactive chatbot for trivia games using NLP and LLM techniques.
+* **[Trivia Chatbot](https://github.com/YanaSiao/RAG-Agent-System)**
+  End-to-end interactive chatbot for trivia games using NLP and LLM techniques.
+  
+  [Video presentation](https://youtu.be/dd0CIeuVRbs?si=Mugl_eLCpPW-M7X4)
+
+  RAG, custom tools, text and audio interfaces, mix of experts, open source models.
 
 
 ### Computer Vision
